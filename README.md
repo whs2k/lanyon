@@ -1,7 +1,7 @@
 ## https://whs2k.github.io/yourApplicationSucks/
 
-# A prototype website built to screen out uploaded documents
-# Scored on an unsurpurvised LDA ML model
+### A prototype website built to screen out uploaded documents
+### Scored on an unsurpurvised LDA ML model
 
 This site was built on:
 # Lanyon
